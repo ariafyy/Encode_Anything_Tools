@@ -1,0 +1,13 @@
+# python 3.9.16
+clip-openai~=1.0.post20230121
+sentence-transformers~=2.2.2
+fastapi~=0.94.1
+uvicorn~=0.21.1
+requests~=2.24.0
+streamlit
+gradio
+#############  img  ################
+#pytesseract
+#Pillow
+#pandas
+#numpy
