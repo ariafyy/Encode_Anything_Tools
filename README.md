@@ -57,10 +57,11 @@ You should probably TRAIN this model on a down-stream task to be able to use it 
 
 - pip install -r requirements.txt
 
-- CUDA_VISIBLE_DEVICES=3 python main.py
 
 ### method1
 - bash infer.sh
+
+- http://0.0.0.0:8300/docs#/
 
 ### method2
 - cd /home/aria/encode_anything_tools/lib
@@ -71,7 +72,8 @@ You should probably TRAIN this model on a down-stream task to be able to use it 
 
 - lsof -i:8300
 
+- http://0.0.0.0:8300/docs#/
 
-=
 
 # Roadmap
+
