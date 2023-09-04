@@ -1,14 +1,18 @@
-# Encode_Anything_Tools
+# Encode_Anything_Tools(Eats)
 
-**Convert text/ img/ audio  into embeddings**
+Convert text/ img/ audio to embeddings
 
 EATS(encode_anything_tools): an AI tool from Aria that can encode any object, in any image/audio/text, with a single click...
 
 This idea is inspired by SAM (Segment Anything Model) from Meta.
 
-## encode everything 2 embeddings:
-
-- encode text,img,audio etc
+- encode text
+  
+- encode img
+  
+- encode audio
+  
+- To be continued.
 
 
 
