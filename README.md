@@ -53,7 +53,7 @@ You should probably TRAIN this model on a down-stream task to be able to use it 
 
 - pip install -r requirements.txt
 
-- CUDA_VISIBLE_DEVICES=2 python main.py
+- CUDA_VISIBLE_DEVICES=3 python main.py
 
 ### method1
 - bash infer.sh
