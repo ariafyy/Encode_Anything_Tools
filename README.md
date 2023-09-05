@@ -78,5 +78,5 @@ You should probably TRAIN this model on a down-stream task to be able to use it 
 # Roadmap
 
 now：
-![encode text](https://github.com/ariafyy/Encode_Anything_Tools/docs/encode_text.png)
+![encode text](https://github.com/ariafyy/Encode_Anything_Tools/blob/main/docs/encode_text.png)
 
